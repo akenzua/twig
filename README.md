@@ -8,7 +8,7 @@ to the remainder.
 
 ### Install
 
-- git clone
+- git clone https://github.com/akenzua/twig.git
 - cd twig
 - npm install
 
